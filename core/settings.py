@@ -37,7 +37,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'accounts',
-    'tracks',
+    'trucks',
     'elds',
     'django.contrib.admin',
     'django.contrib.auth',
